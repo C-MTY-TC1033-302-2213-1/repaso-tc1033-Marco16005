@@ -4,8 +4,8 @@
 
 #include <iostream>
 #include <iomanip> // for std::setprecision()
-#include "punto.hpp"
-#include "triangulo.hpp"
+#include "Punto.hpp"
+#include "Triangulo.hpp"
 
 using namespace std;
 
