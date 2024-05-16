@@ -1,5 +1,5 @@
-#ifndef punto_h
-#define punto_h
+#ifndef Punto_h
+#define Punto_h
 
 #include <stdio.h>
 #include <string>

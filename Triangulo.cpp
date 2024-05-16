@@ -1,4 +1,4 @@
-#include "triangulo.hpp"
+#include "Triangulo.hpp"
 #include <cmath> 
 
 using namespace std;

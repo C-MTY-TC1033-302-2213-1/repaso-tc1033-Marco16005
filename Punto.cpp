@@ -1,4 +1,4 @@
-#include "punto.hpp"
+#include "Punto.hpp"
 #include <cmath> 
 #include <string>
 #include <sstream>

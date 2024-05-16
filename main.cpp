@@ -66,7 +66,7 @@ int main( ){
     cout << "p_tri3 = " << tri3.perimetro() << endl;
     cout << "a_tri3 = " << tri3.area() << endl;
     cout << "Distancia = " << p1.calculaDistancia(p2)  << endl;
-    cout << p1.calculaDistancia(Punto(0,0)) << endl;
+    //cout << p1.calculaDistancia(Punto(0,0)) << endl;
    
     // Triangulo arrT[100];
     // desplegarArregloTriangulo(arrT, 100);
